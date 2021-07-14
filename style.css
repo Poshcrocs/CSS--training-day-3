@@ -2,7 +2,6 @@ h1 {color: red;
 }
 
 * {font-family: Arial, Helvetica, sans-serif;
-
 }
 
 h2 {
@@ -14,11 +13,9 @@ p.bluetype {
 }
 
 p.italic {font-style: italic ;
-
 }
 
 span.bold { font-weight: bold;
-
 }
 
 p.greentype {
