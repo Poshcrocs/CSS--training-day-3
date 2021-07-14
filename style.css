@@ -1,2 +1,38 @@
-h1 {color: green
-;}
+h1 {color: red;
+}
+
+* {font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p.bluetype {
+    color: blue;
+}
+
+p.italic {font-style: italic ;
+
+}
+
+span.bold { font-weight: bold;
+
+}
+
+p.greentype {
+    color: rgb(13, 189, 13);
+}
+
+section {
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+span.italic {font-style: italic;}
+
+section.centre-text {
+    text-align: center;
+}
